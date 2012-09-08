@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.pyc
+*.py~
+.gitignore~
+env
+local_settings.py
